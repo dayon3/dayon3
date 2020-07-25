@@ -1,19 +1,11 @@
 <div align="center">
-	<h3>Hi there 👋</h3>
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
+	<h3>Well Hello! 👋</h3>
+	<h3>My name is <a href='https://davisgitonga.dev'>Davis</a></h3>
+	<h3>I'm a Front-end Engineer</h3>
 </div>
 
 <div>
-	[![Gitonga's github stats](https://github-readme-stats.vercel.app/api?username=dayon3)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dayon3&show_icons=true&theme=radical&line_height=27" alt="Gitonga's github stats" />
 </div>
 
 <!--
