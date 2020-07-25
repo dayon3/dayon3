@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 	<h3>Well Hello! 👋</h3>
 	<h3>My name is <a href='https://davisgitonga.dev'>Davis</a></h3>
 	<h3>I'm a Front-end Engineer</h3>
